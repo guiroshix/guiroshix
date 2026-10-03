@@ -45,6 +45,6 @@ And in my case, I use AI as a **learning tool**, especially for **dealing with u
 # 📪 How to reach me
 You can reach me by **Discord, E-mails and YouTube**.
 - [Discord](https://discord.gg/dBmahxpu)
-- [![guiroshix's Discord status](https://dsc-readme.tsuni.dev/api/user/875061381806850069?theme=dark&width=544)](https://github.com/the-snesler/discord-github-preview)
-- [E-Mail](mailto:bomberj2me@gmail.com]
+[![guiroshix's Discord status](https://dsc-readme.tsuni.dev/api/user/875061381806850069?theme=dark&width=544)](https://github.com/the-snesler/discord-github-preview)
+- [E-Mail](mailto:bomberj2me@gmail.com)
 - [Youtube](youtube.com/@bomberme)
