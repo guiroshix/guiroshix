@@ -4,13 +4,13 @@ I'm currently learning ROM Hacking, and developing projects for limited systems 
 
 I'm interested in **software development, reverse engineering, game development and old/limited hardware.**
 
-# ⚒️ My main works include
+## ⚒️ My main works include
 - Translations (English > Brazilian-Portuguese)
 - Graphic Design
 - Art
 - Conceptual Designs
 
-# 🔧 What I work with 
+## 🔧 What I work with 
 - Linux
 - Android
 - Python Tools
@@ -18,9 +18,14 @@ I'm interested in **software development, reverse engineering, game development 
 - Graphic Editing Tools
 - Hex Editing
 
-# 📌 Philosophy
+## 📌 Philosophy
 - I prefer **understanding why something works** instead of just making it work.
 If a system has a weird limitation, that's usually where things get interesting
+
+## 📖 Currently Learning
+- ☕ Java
+- 🐍 Python
+- 🐧 Linux
 
 # 🧪 Projects
 Some of my projects and experiments:
