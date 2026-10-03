@@ -43,7 +43,7 @@ And in my case, I use AI as a **learning tool**, especially for **dealing with u
 **I will never use anything related to AI without actually having the knowledge of what it did or does and how it works**.
 
 # 📪 How to reach me
-- You can reach me by Discord, E-mails and YouTube.
+You can reach me by **Discord, E-mails and YouTube**.
 - [Discord](https://discord.gg/dBmahxpu)
 - [E-Mail](mailto: bomberj2me@gmail.com]
 - [Youtube](youtube.com/@bomberme)
